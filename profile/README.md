@@ -1,12 +1,8 @@
-## Hi there 👋
+# 📚 Hi there 👋 Welcome To Volunteer Tech®
 
-<!--
+Volunteer Tech® is a professional training and coaching non-profit institution founded by a young software engineer and researcher, [Aklilu Mandefro](https://volunteer-tech.com/Aklilu/) in May 2016 with the goal of helping humanity forward and making the world a better place. We are here to inspire and empower the younger generation to be future-proof through our free-of-charge motivational skills training in four areas: coding, research, personal development, and leadership in a way that makes a difference in their lives and the world around them. Despite being originally based in two cities, Gondar and Bahir Dar, in Ethiopia, our mission is to reach out to a wider community across Africa.
 
-**Here are some ideas to get you started:**
+​We focus on creating future leaders by inspiring and empowering youth to help them create an impact on thier community through the use of technology and research. We inspire them to build a better future not only for themselves but also for the rest of the world.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+
